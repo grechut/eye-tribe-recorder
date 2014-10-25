@@ -7,4 +7,6 @@ For the eye-tracking purposes must be used EyeTribe tool (https://theeyetribe.co
 
 Built version in /ReadyVersion
 
+Screenshot: https://github.com/rzeszutekjacek/eye-tribe-recorder/blob/master/screenshot.png
+
 Runs only under Windows. Requires .NET 4.5
